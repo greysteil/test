@@ -11,3 +11,6 @@ m6NKOXHeddk6p95skFC906PlD464O5NB
 
 ## Atlassian
 4i1AkXaCgJ8aqXnetSn368CB
+
+## Stripe
+sk_test_j3si1rFJWszuXAjhTVfk7dwP

@@ -8,3 +8,6 @@ m6NKOXHeddk6p95skFC906PlD464O5NB
 
 ## Mailchimp
 99e5b6bc9200656f4ac5f5b82c5718c8-us7
+
+## Atlassian
+4i1AkXaCgJ8aqXnetSn368CB

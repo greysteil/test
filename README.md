@@ -15,3 +15,6 @@ qJNBeMR9ivo63WyGE03gC52E
 ## Stripe
 sk_test_j3si1rFJWszuXAjhTVfk7dwP
 rk_test_41aBSDhKxa1mhQRmYvCv0Cnbgx5SXi7n5GsKVOlLjOjSSZHO3QTsKgetZ25Wd6Ekr2gFRl0aWYCeU9Qs2GwTsQrQf00VDRcM1xn
+
+## MessageBird
+kQYFS5D7BcK4C7lLVDX2zagZl

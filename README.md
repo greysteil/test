@@ -21,3 +21,7 @@ kQYFS5D7BcK4C7lLVDX2zagZl
 
 ## Box
 4TYysqJ2iEsxuEE0h9medSstuYnoHo7b
+
+## npm
+
+npm auth token: 26b57006-e850-407f-85f7-5342ae66c041

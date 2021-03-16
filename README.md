@@ -29,3 +29,9 @@ npm auth token: 26b57006-e850-407f-85f7-5342ae66c041
 ## Doppler
 dp.pt.io2MvSgn7aAn6Ebhzr40b1BSMDywJhhMqMD66y6H
 dp.pt.io2MvSgn7aAn6Ebhzr40b1BSMDywJhhMqMD62y6H
+
+## PyPI
+pypi-AgEIcHlwaS5vcmcCJDBiNzFlYzcwLTQwOTktNGFiOC05YWYxLTZlMDUyM2U2YzRkMAACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgwM6_GipGXLMqjHIXVT3xny5ONA9Ig2jXU8ahpORpOcQ
+
+## RubyGems
+rubygems_638454abaa5e867f0aa699e8c6a9be229e4a09eddf60d831
